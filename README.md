@@ -1,0 +1,1 @@
+Basic MERN app to implement JWT and POST feature.
